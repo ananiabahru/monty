@@ -40,6 +40,7 @@ free_stack(*head);
 exit(EXIT_FAILURE);
 }
 printf("%d\n", (*head)->n);
+}
 
 /**
 * f_nop - function that does nothing
